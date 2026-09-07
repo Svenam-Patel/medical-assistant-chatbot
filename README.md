@@ -26,9 +26,6 @@ Retrieved Docs
      RAG Chain (Groq + LangChain)
    ↓
 LLM-generated Answer
-```
-
-For a detailed view, refer to the **[MedicalAssistant.pdf](./assets/MedicalAssistant.pdf)**
 
 ---
 
